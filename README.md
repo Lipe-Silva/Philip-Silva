@@ -11,7 +11,7 @@ some of my notable projects
 - [Assembly Malware](https://github.com/Lipe-Silva/assembly_sec)
 
 <h2> Web-Dev Projects:</h2>
-- [Websites] (https://github.com/Lipe-Silva/Web-Sites/tree/main)
+-[Websites](https://github.com/Lipe-Silva/Web-Sites/tree/main)
 
 <h2> 🎖️ Certifications:</h2>
 
