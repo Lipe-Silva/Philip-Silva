@@ -12,7 +12,7 @@ some of my notable projects
 
 <h2> Web-Dev Projects:</h2>
 
--[Websites](https://github.com/Lipe-Silva/Web-Sites/tree/main)
+- [Websites](https://github.com/Lipe-Silva/Web-Sites/tree/main)
 
 <h2> 🎖️ Certifications:</h2>
 
